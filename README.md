@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">🚀 AI Engineer | Full Stack Developer | Automation Expert</h3>
+<h3 align="center">🚀 AI Student 👨‍💻 | Exploring AI & Machine Learning | Building and Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI+Developer;Full+Stack+Engineer;Automation+Expert;Building+Cool+Projects+🔥" />
@@ -8,11 +8,10 @@
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **AI & Automation Projects**
-- 🌱 Learning **Advanced AI Agents & SaaS Development**
-- 💬 Ask me about **React, Node.js, AI Tools**
-- ⚡ Fun fact: *I turn coffee ☕ into code*
-  
+🔭 Exploring AI & Automation through hands-on projects
+🌱 Learning Machine Learning, AI tools, and SaaS basics
+💬 Interested in React, Node.js, and intelligent applications
+⚡ Consistently learning and building to grow as a developer
 ---
 
 ## 🌐 Connect with me
