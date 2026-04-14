@@ -55,16 +55,15 @@
 
 ## 🧠 Featured Projects
 
-- 🤖 AI Chatbot
-- ⚙️ Automation Workflows
-- 🌐 Full Stack Web Apps
-
+🤖 AI & Chatbots
+⚙️ Automation (Learning)
+🌐 Web Projects
 ---
 
 ## 🎯 Goals 2026
-- 🚀 Build SaaS Products
-- 🤖 Master AI Agents
-- 💰 Start Tech Business
+🚀 Learning SaaS development
+🤖 Exploring AI agents
+💰 Interested in tech entrepreneurship
   
 ---
 
