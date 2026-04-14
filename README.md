@@ -2,7 +2,8 @@
 <h3 align="center">🚀 AI Student 👨‍💻 | Exploring AI & Machine Learning | Building and Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI Student 👨‍💻; Exploring ML; Building Cool Projects; Learning Daily 🚀" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI+Student+👨‍💻;Exploring+ML;Building+Cool+Projects;Learning+Daily+🚀" />
 </p>
 
 ---
