@@ -1,8 +1,5 @@
-echo "<h1 align='center'>👋 Hi, I'm Muhammad Usman</h1>" > README.md
-echo "<h3 align='center'>🎓 AI Student | Machine Learning Enthusiast</h3>" >> README.md
-echo "" >> README.md
-echo "<p align='center'>" >> README.md
-echo "  <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=500&lines=Learning+AI+%26+Machine+Learning;Building+Real-World+Projects;Exploring+Parallel+Computing;Always+Learning+New+Things' alt='Typing SVG' />" >> README.md
+echo "<p align='center'>" > README.md
+echo "  <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Muhammad+Usman;AI+Student+%7C+Machine+Learning+Enthusiast;Building+Projects+to+Learn;3.75x+Parallel+Speedup+Achieved' alt='Typing SVG' />" >> README.md
 echo "</p>" >> README.md
 echo "" >> README.md
 echo "<p align='center'>" >> README.md
@@ -12,20 +9,25 @@ echo "</p>" >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
-echo "## 🧑‍💻 About Me" >> README.md
+echo "## 👨‍💻 About Muhammad Usman" >> README.md
 echo "" >> README.md
-echo "- 🔭 I'm currently working on **AI & Machine Learning projects**" >> README.md
-echo "- 🌱 Learning **Python, Data Science, and Neural Networks**" >> README.md
-echo "- 📚 Building small projects to understand concepts better" >> README.md
-echo "- 🎯 2026 Goals: Contribute to open source and master ML basics" >> README.md
-echo "- ⚡ Achievement: Built a **3.75x faster parallel word counter**" >> README.md
+echo "Hello! I'm **Muhammad Usman**, a passionate **AI student** who loves building things with code. I'm on a journey to learn machine learning and artificial intelligence by working on real projects." >> README.md
+echo "" >> README.md
+echo "- 🎓 **Currently:** Learning AI & Machine Learning" >> README.md
+echo "- 📍 **Location:** Pakistan" >> README.md
+echo "- 💡 **Interests:** Python, Data Science, NLP, Parallel Computing" >> README.md
+echo "- 📚 **Learning:** TensorFlow, Neural Networks, Scikit-learn" >> README.md
+echo "- 🚀 **Achievement:** Built a parallel word counter that's **3.75x faster**" >> README.md
+echo "- 💬 **Ask me about:** Python basics, Jupyter Notebook, Git & GitHub" >> README.md
 echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
 echo "## 📂 Projects I've Built" >> README.md
 echo "" >> README.md
-echo "| Project | Description | Tech Stack |" >> README.md
-echo "|---------|-------------|------------|" >> README.md
+echo "Here are some projects I've worked on to learn and practice AI/ML concepts:" >> README.md
+echo "" >> README.md
+echo "| Project | Description | Tech Used |" >> README.md
+echo "|---------|-------------|-----------|" >> README.md
 echo "| [Parallel Word Count](https://github.com/usman-official-ai/Parallel-Word-Count) | ⚡ 3.75x faster word counting using parallel processing | Python, Flask, Web Workers |" >> README.md
 echo "| [Speech Command Net](https://github.com/usman-official-ai/Speech-Command-Net) | 🎤 AI voice command recognizer (8 commands) | TensorFlow, Jupyter |" >> README.md
 echo "| [Voice Guard AI](https://github.com/usman-official-ai/Voice-Guard-AI) | 🛡️ Deepfake voice detection system | AI/ML, Python |" >> README.md
@@ -68,5 +70,5 @@ echo "  </a>" >> README.md
 echo "</p>" >> README.md
 echo "" >> README.md
 echo "<p align='center'>" >> README.md
-echo "  <i>\"Building projects, learning daily, and growing as an AI developer.\"</i>" >> README.md
+echo "  <i>🌟 \"Building projects, learning daily, and growing as an AI developer.\"</i>" >> README.md
 echo "</p>" >> README.md
