@@ -11,9 +11,9 @@ echo "---" >> README.md
 echo "" >> README.md
 echo "## 👨‍💻 About Muhammad Usman" >> README.md
 echo "" >> README.md
-echo "Hello! I'm **Muhammad Usman**, a passionate **AI student** who loves building things with code. I'm on a journey to learn machine learning and artificial intelligence by working on real projects." >> README.md
+echo "Hello! I'm **Muhammad Usman**, an **AI Student** passionate about machine learning and artificial intelligence. I learn by building real projects and exploring new technologies." >> README.md
 echo "" >> README.md
-echo "- 🎓 **Currently:** Learning AI & Machine Learning" >> README.md
+echo "- 🎓 **Currently:** AI Student (Machine Learning focus)" >> README.md
 echo "- 📍 **Location:** Pakistan" >> README.md
 echo "- 💡 **Interests:** Python, Data Science, NLP, Parallel Computing" >> README.md
 echo "- 📚 **Learning:** TensorFlow, Neural Networks, Scikit-learn" >> README.md
@@ -23,8 +23,6 @@ echo "" >> README.md
 echo "---" >> README.md
 echo "" >> README.md
 echo "## 📂 Projects I've Built" >> README.md
-echo "" >> README.md
-echo "Here are some projects I've worked on to learn and practice AI/ML concepts:" >> README.md
 echo "" >> README.md
 echo "| Project | Description | Tech Used |" >> README.md
 echo "|---------|-------------|-----------|" >> README.md
@@ -70,5 +68,5 @@ echo "  </a>" >> README.md
 echo "</p>" >> README.md
 echo "" >> README.md
 echo "<p align='center'>" >> README.md
-echo "  <i>🌟 \"Building projects, learning daily, and growing as an AI developer.\"</i>" >> README.md
+echo "  <i>🌟 \"An AI Student building projects, learning daily, and growing one step at a time.\"</i>" >> README.md
 echo "</p>" >> README.md
